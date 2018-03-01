@@ -1,3 +1,3 @@
 # Brick_Breaker
 
-Developpers: Sarah Fleitmann, Bjoern Mueller, Daniel Herweg, Benedikt Scherer, Tobias Ferrari
+Developers: Sarah Fleitmann, Björn Müller, Daniel Herweg, Benedikt Scherer, Tobias Ferrari
